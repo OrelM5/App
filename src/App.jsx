@@ -20,6 +20,7 @@ function App() {
           <option value={"ILS"}>Shekel</option>
           <option value={"EUR"}>Euro</option>
           <option value={"GBP"}>Pound</option>
+          
         </select>
       </div>
     </>
